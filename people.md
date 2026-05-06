@@ -59,7 +59,7 @@ permalink: /people/
 
 <div class="people-grid">
 
-{%- assign past = site.people | where: "status", "past" -%}
+{%- assign past = site.people | where: "team", "past" -%}
 {%- assign with_order = past | where_exp: "p", "p.order" | sort: "order" -%}
 {%- assign without_order = past | where_exp: "p", "p.order == nil" | sort: "name" -%}
 {%- assign members = with_order | concat: without_order -%}
