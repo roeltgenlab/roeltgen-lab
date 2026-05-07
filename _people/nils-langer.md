@@ -3,7 +3,7 @@ name: Nils Langer
 role: MSc Student
 order: 9
 team: member
-photo: /assets/img/people/nils.jpg
+photo: /assets/img/people/optimized/nils.webp
 social:
   linkedin:  https://www.linkedin.com/in/nils-langer-17aa68381
 interests:

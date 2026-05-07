@@ -3,7 +3,7 @@ name: Mona Ziltener
 role: MSc Student
 order: 8
 team: member
-photo: /assets/img/people/mona.jpeg
+photo: /assets/img/people/optimized/mona.webp
 social:
 interests:
   - Going on excursions

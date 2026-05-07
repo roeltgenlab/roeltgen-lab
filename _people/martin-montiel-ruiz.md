@@ -3,7 +3,7 @@ name: Martin Montiel-Ruiz
 role: PhD Candidate
 order: 4
 team: member
-photo: /assets/img/people/Martin_Profilbild.jpg
+photo: /assets/img/people/optimized/Martin fav. Profilbild.webp
 social:
   orcid: https://orcid.org/0000-0001-6200-9578
   linkedin: https://ch.linkedin.com/in/martin-montiel-ruiz-5448b766

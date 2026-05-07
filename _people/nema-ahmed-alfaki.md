@@ -3,7 +3,7 @@ name: Nema Ahmed Alfaki
 role: MSc Student
 order: 7
 team: member
-photo: /assets/img/people/nema.jpg
+photo: /assets/img/people/optimized/nema.webp
 social:
   linkedin: https://www.linkedin.com/in/nema-ahmed-257948216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 interests:

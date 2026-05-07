@@ -3,7 +3,7 @@ name: Kai Wanner
 role: MSc Graduate
 order: 6
 team: past
-photo: /assets/img/people/kai.jpg
+photo: /assets/img/people/optimized/kai.webp
 social:
   linkedin: https://linkedin.com/in/kai-wanner-5b2823394
   github: https://github.com/RealKaiWanner
