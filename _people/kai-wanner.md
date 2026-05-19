@@ -10,6 +10,7 @@ social:
 interests:
   - Finishing the last slice of cake
   - Combining computers & labwork
+  - Playing tennis
 ---
 
 Kai Wanner was an MSc student at Swiss TPH who pursued his MSc project in both [EVE](https://eve-lab.org/) and VIM. 
