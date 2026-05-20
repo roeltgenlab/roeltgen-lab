@@ -5,7 +5,7 @@
   </div>
 
   <div class="avatar-grid">
-    {%- assign people = site.people -%}
+    {%- assign people = site.people | where_exp: "p", "p.team != 'past'" -%}
 	{%- assign with_order = people | where_exp: "p", "p.order" | sort: "order" -%}
 	{%- assign without_order = people | where_exp: "p", "p.order == nil" | sort: "name" -%}
 	{%- assign members = with_order | concat: without_order -%}
