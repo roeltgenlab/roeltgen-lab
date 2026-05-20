@@ -3,7 +3,7 @@ name: Salomé Lochmann
 role: PhD Student
 order: 5
 team: member
-photo: /assets/img/people/Salomé_Profilbild.jpg
+photo: /assets/img/people/optimized/Salomé_Profilbild.webp
 social:
   linkedin: https://www.linkedin.com/in/salom%C3%A9-lochmann-981572278
   github: https://github.com/salomelochmann

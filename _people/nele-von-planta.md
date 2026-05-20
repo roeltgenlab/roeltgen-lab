@@ -1,9 +1,9 @@
 ---
 name: Nele von Planta
 role: BSc Student
-order: 10
+order: 11
 team: member
-photo: /assets/img/people/nele.jpg
+photo: /assets/img/people/optimized/nele.webp
 social:
   
 interests:
